@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: const AquariumHomePage(title: 'Virtual Aquarium Home Page'),
+      home: const AquariumHomePage(title: 'Virtual Aquarium'),
     );
   }
 }
