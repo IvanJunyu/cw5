@@ -1,0 +1,4 @@
+#Wed Oct 23 20:44:37 EDT 2024
+base.0=C\:\\Users\\ly\\Desktop\\mobile\\cw\\cw5\\virtual_aquarium\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
